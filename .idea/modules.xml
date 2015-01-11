@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HackTheDrive.iml" filepath="$PROJECT_DIR$/HackTheDrive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidQuery/androidQuery.iml" filepath="$PROJECT_DIR$/androidQuery/androidQuery.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
